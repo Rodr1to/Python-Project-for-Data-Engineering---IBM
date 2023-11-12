@@ -33,4 +33,3 @@ The final output includes a CSV file ('Largest_banks_data.csv') containing the t
 
 ---
 
-*Note: Ensure proper configuration of the project environment, including the specified URL, file paths, and dependencies, for successful execution.*
