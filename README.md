@@ -2,7 +2,7 @@
 # Banks Data ETL Project
 
 ## Overview
-This project involves extracting, transforming, and loading (ETL) data related to the largest banks from a specified webpage. The goal is to gather information on the top banks, including their rankings, names, and market capitalization in USD billion. The project follows a series of ETL operations to process and store the data for further analysis.
+This project involves extracting, transforming, and loading (ETL) data related to the largest banks from Wikipedia. The goal is to gather information on the top banks, including their rankings, names, and market capitalization in USD billion. The project follows a series of ETL operations to process and store the data for further analysis.
 
 ## Workflow
 
